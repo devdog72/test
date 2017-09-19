@@ -22,3 +22,7 @@ end
 
 class Random
 end
+
+
+class Another
+end
